@@ -4,7 +4,6 @@ import  Padre  from "./components/Padre";
 
 function App() {
 
-
   function handleClick() {
     console.log("like")
     alert("Le diste like")
