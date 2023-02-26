@@ -12,6 +12,7 @@ const Padre = (props) => {
     <h1>{descrip}</h1>
     <ul>{hijos()}</ul>
     <p>{props.children}</p>
+    <p>{props.nombre}</p>
     </>
   );
 };

@@ -15,7 +15,7 @@ function App() {
       <button onClick={handleClick}>Like</button>
       <Title subtitulo="Generos" />
       <Title subtitulo="Actores" />
-      <Padre />
+      <Padre> Hola </Padre>
     </div>
   )
 }
