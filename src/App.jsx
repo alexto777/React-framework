@@ -11,11 +11,11 @@ function App() {
 
   return (
     <div className="App">
-      <Title titulo="Los vengadores" descripcion="Pelicula de superheroes" subtitulo="Avengers 2" />
+      {/* <Title titulo="Los vengadores" descripcion="Pelicula de superheroes" subtitulo="Avengers 2" />
       <button onClick={handleClick}>Like</button>
       <Title subtitulo="Generos" />
       <Title subtitulo="Actores" />
-      <Padre> Hola </Padre>
+      <Padre> Hola </Padre> */}
     </div>
   )
 }
